@@ -1,2 +1,2 @@
 # testowe
-Testowe rezpozytorium publiczne etet 1234
+Testowe rezpozytorium publiczne
